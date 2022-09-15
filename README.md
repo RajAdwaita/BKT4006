@@ -1,12 +1,12 @@
-# **Depocalypse NFT Marketplace 🛒**
+# **DEV-LOP-MENT NFT Marketplace 🛒**
 
 A decentralized NFT market. Create your own NFTs in no time and put them up in the marketplace. Buying, Selling, Auctioning, or even putting NFTs for charity has never been easier.
 
-## **The problem Depocalypse NFT Marketplace 🛒 solves**
+## **The problem DEV-LOP-MENT NFT Marketplace 🛒 solves**
 
 NFTs and Ethereum solve some of the problems that exist on the internet today. As everything becomes more digital, there's a need to replicate the properties of physical items like scarcity, uniqueness, and proof of ownership. Not to mention that digital items often only work in the context of their product.
 
-**Depocalypse** aims to combat censorship and the unjustifiably low royal fees that artists get. Our NFT marketplace lets you make these digital tokens with ease and sets up a platform where buyers and sellers can exchange these tokens using their crypto wallets (Metamask, Portis, etc.).
+**DEV-LOP-MENT** aims to combat censorship and the unjustifiably low royal fees that artists get. Our NFT marketplace lets you make these digital tokens with ease and sets up a platform where buyers and sellers can exchange these tokens using their crypto wallets (Metamask, Portis, etc.).
 
 Each user/buyer can go through available NFTs on sale, get their description, media preview and buy them instantly with the click of a button.
 
