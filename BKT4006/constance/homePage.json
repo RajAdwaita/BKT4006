@@ -1,0 +1,11 @@
+{
+    "name": "home Page",
+    "marketplaceNmae": "NEXXT",
+    "discribtion": "",
+    "wellcomeAlert": {
+        "title": "",
+        "massage": "",
+        "alertMasage": "",
+        "dontshowMessage": ""
+    }
+}

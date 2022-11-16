@@ -1,0 +1,82 @@
+{
+    "name": "footer",
+    "findUsText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "location": "VIT VELLORE",
+    "phoneNumber": "+91-9330554877",
+    "email": " adwaitaraj@yahoo.co.in",
+    "quickLinks1": [
+        {
+            "name": "Image Rectoucing",
+            "url": "/"
+        },
+        {
+            "name": "Clipping Path",
+            "url": "/"
+        },
+        {
+            "name": "Hollow Man Montage",
+            "url": "/"
+        },
+        {
+            "name": "Ebay & Amazon",
+            "url": "/"
+        },
+        {
+            "name": "Hair Masking/Clipping",
+            "url": "/"
+        },
+        {
+            "name": "Image Cropping",
+            "url": "/"
+        }
+    ],
+    "quickLinks2": [
+        {
+            "name": "Remove Background",
+            "url": "/"
+        },
+        {
+            "name": "Logo Design",
+            "url": "/"
+        },
+        {
+            "name": "Vectorization",
+            "url": "/"
+        },
+        {
+            "name": "Shadows & Mirror Reflection",
+            "url": "/"
+        },
+        {
+            "name": "Hair Masking/Clipping",
+            "url": "/"
+        },
+        {
+            "name": "Image Cropping",
+            "url": "/"
+        }
+    ],
+    "followUs": [
+        {
+            "name": "INSTAGRAM",
+            "url": ""
+        },
+        {
+            "name": "TWITTER",
+            "url": ""
+        },
+        {
+            "name": "LINKEDIN",
+            "url": ""
+        }
+    ],
+    "copyright": {
+        "text": "Copyright @2022 | All Rights Reserved | Designed By",
+        "designer": "TEAM_DEV_LOP_MENT",
+        "url": "www.vit.ac.in"
+    },
+    "facebook": "",
+    "twitter": "",
+    "linkedin": "",
+    "instagram": ""
+}
